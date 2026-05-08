@@ -1,11 +1,11 @@
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-API_ID = 123456
-API_HASH = "your_api_hash"
-BOT_TOKEN = "your_bot_token"
-BOT_USERNAME = "YourBotUsername"
-CHANNEL_ID = -1001234567890
+API_ID = 39188641
+API_HASH = "5197eef07d0ae6434711d49219739aaa"
+BOT_TOKEN = "8549703368:AAGvs6DGowwCaKTQv-ohGH4s3RN2y_9GT_w"
+BOT_USERNAME = "Allmoviex_bot"
+CHANNEL_ID = -1003954020823
 
 bot = Client(
     "AnishDeepLinkBot",
